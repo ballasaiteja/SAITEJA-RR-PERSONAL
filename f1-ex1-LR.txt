@@ -1,6 +1,9 @@
-local
-non local
-internal
+#! /usr/bin/bash
+
+
+
+#local
+nternal
 external
 hyd
 sec

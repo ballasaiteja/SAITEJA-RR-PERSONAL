@@ -1,0 +1,7 @@
+local
+non local
+internal
+external
+hyd
+sec
+bang*****
